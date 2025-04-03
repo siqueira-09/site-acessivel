@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
 
+    const botaoDeAcessibilidade = document.getElementById('botao-acessibilidade');
+
     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
     const diminuiFonteBotao = document.getElementById('diminuir-fonte');
 
